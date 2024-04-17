@@ -14,9 +14,12 @@ This repository contains the code and documentation for setting up a smart home 
 
 **Components Required:**
 1. NodeMCU (ESP8266)
-2. Relay Module as per the number of devise (4 channel Suggested)
-3. Jumpper wires
+2. Relay Module as per the number of devices (4 channels Suggested)
+3. Jumper wires
 4. Brade Board
+
+**:**
+![Picsart_23-05-05_09-07-26-012](https://github.com/sspabhishek/SmartHome_NodeMCU_SinricPro_Alexa_GoogleAssistant/assets/109017204/f2c5828e-87b1-4083-92db-6b3c2c935a3b)
 
 **How to Use:**
 
