@@ -13,15 +13,22 @@ This repository contains the code and documentation for setting up a smart home 
 4. **Google Assistant Integration:** Enable voice control of your smart home devices using Google Assistant voice commands, providing users with another convenient way to manage their home automation system.
 
 **Components Required:**
-1. NodeMCU (ESP8266)
-2. Relay Module as per the number of devices (4 channels Suggested)
-3. Jumper wires
-4. Brade Board
-5. tactile switch
+1. Arduino IDE (Software)
+2. NodeMCU (ESP8266)
+3. Relay Module as per the number of devices (4 channels Suggested)
+4. Jumper wires
+5. Brade Board
+6. tactile switch
 
 **Connections:**
 ![Picsart_23-05-05_09-07-26-012](https://github.com/sspabhishek/SmartHome_NodeMCU_SinricPro_Alexa_GoogleAssistant/assets/109017204/f2c5828e-87b1-4083-92db-6b3c2c935a3b)
 
+**Setup of SinricPro:**
+1. Go to https://sinric.pro/ and an account
+2. Select Devices and add Device
+3. Copy the ID's of all Devices and paste them into the code
+4. Copy credentials and paste them into your code
+   
 **How to Use:**
 
 1. Clone or download the repository.
