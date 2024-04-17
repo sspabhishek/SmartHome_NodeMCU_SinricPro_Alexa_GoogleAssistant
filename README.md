@@ -24,9 +24,9 @@ This repository contains the code and documentation for setting up a smart home 
 ![Picsart_23-05-05_09-07-26-012](https://github.com/sspabhishek/SmartHome_NodeMCU_SinricPro_Alexa_GoogleAssistant/assets/109017204/f2c5828e-87b1-4083-92db-6b3c2c935a3b)
 
 **Setup of SinricPro:**
-1. Go to https://sinric.pro/ and an account
+1. Go to https://sinric.pro/ and Create an account
 2. Select Devices and add Device
-3. Copy the ID's of all Devices and paste them into the code
+3. Copy the IDs of all Devices and paste them into the code
 4. Copy credentials and paste them into your code
    
 **How to Use:**
