@@ -1,6 +1,6 @@
 **SmartHome_NodeMCU_SinricPro_Alexa_GoogleAssistant**
 
-This repository contains the code and documentation for setting up a smart home automation system using NodeMCU, SinricPro, and integrating with both Amazon Alexa and Google Assistant.
+This repository contains the code and documentation for setting up a smart home automation system using NodeMCU, and SinricPro, and integrating with both Amazon Alexa and Google Assistant.
 
 **Features:**
 
@@ -11,6 +11,12 @@ This repository contains the code and documentation for setting up a smart home 
 3. **Amazon Alexa Integration:** Enable voice control of your smart home devices using Amazon Alexa voice commands, allowing users to effortlessly interact with their home environment.
 
 4. **Google Assistant Integration:** Enable voice control of your smart home devices using Google Assistant voice commands, providing users with another convenient way to manage their home automation system.
+
+**Components Required:**
+1. NodeMCU (ESP8266)
+2. Relay Module as per the number of devise (4 channel Suggested)
+3. Jumpper wires
+4. Brade Board
 
 **How to Use:**
 
